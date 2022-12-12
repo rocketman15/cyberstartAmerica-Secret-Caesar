@@ -6,6 +6,7 @@ this is a python script to solve the Secret Caesar exercise on cyberstartAmerica
 <br>step 5 type the command nano Secret_caesar.py 
 <br>step 6 locate the line that says "#call the function for the different encrypted strings"
 <br>step 7 copy the line that says "print(decrypt("#######", #))" and paste it as many times as the decryption function needs to be called
-<br>step 8 replace the hashtags in the quotes with the string that needs to be encrypted, and the lone hashtag with the shift. 
+<br>step 8 replace the hashtags in the quotes with the string that needs to be decrypted, and the lone hashtag with the shift used to encrypt it.
+<strong>do not</strong> add any extra spaces or commas 
 <br>step 9 hit ctrl+x, then y, then enter to save
 <br>step 10 run the modified program with python3 Secret_caesar.py
