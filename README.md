@@ -1,4 +1,3 @@
-<h1> Note this code is still being tested</h1>
 this is a python script to solve the Secret Caesar exercise on cyberstartAmerica. 
 <br>Step 1 go to https://console.cloud.google.com/
 <br>step 2 click on the icon in the upper right hand corner that looks like a greater than symbol
